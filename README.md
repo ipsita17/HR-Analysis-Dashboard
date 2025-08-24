@@ -55,5 +55,6 @@ This dashboard can be used to:
 - Open it in Power BI Desktop.
 
 - Explore filters (by department, job role, etc.) to view customized insights.
+<img width="460" height="343" alt="image" src="https://github.com/user-attachments/assets/e6a84cbb-7005-4e45-9a64-94af0e551b78" />
 
 
